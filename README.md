@@ -2,10 +2,9 @@
 
 #### Technical Skills: Python, MATLAB, Excel
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education								       		
+- MS, Sustainable Design and Construction	| Stanford University (_December 2019_)	 			        	
+- B.Tech, Civil Engineering | Indian Institute of Technology Madras (_May 2017_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
