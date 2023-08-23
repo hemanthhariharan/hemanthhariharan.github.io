@@ -1,6 +1,6 @@
 # Hemanth Hariharan
 
-## Me, myself and I
+## Me, myself and I!
 
 ### Welcome welcome! I am Hemanth Hariharan, a first-year master's student in the Sustainable Design and Construction program at Stanford University. I am an engineering graduate fascinated by the natural and man-made world. In addition to my passion for the sciences, I am a classical tabla (Indian percussion drum) player and an avid sportsperson.
 
