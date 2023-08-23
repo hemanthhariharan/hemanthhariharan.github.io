@@ -1,15 +1,16 @@
 # Hemanth Hariharan
 
-#### Technical Skills: Python, MATLAB, Financial Modeling
+#### Technical Skills: Python, MATLAB, Financial Modelling
 
 ## Education								       		
-- MS, Sustainable Design and Construction	| Stanford University (_December 2019_)	 			        	
-- B.Tech, Civil Engineering | Indian Institute of Technology Madras (_May 2017_)
+- MS, Sustainable Design and Construction	| Stanford University (_June 2024_)	 			        	
+- B.Tech, Civil Engineering | Indian Institute of Technology Madras (_June 2020_)
 
 ## Work Experience
-**Cypress Creek Renewables (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Cypress Creek Renewables (_June 2024 - September 2024_)**
+- Interconnection Queue Project: Analysed and visualized trends in historical data from public ERCOT information. Using Machine Learning to predict study times and project outcomes.
+- Financial Modelling: Compiling developer-facing models for all ERCOT pipeline projects and performing sensitivity analyses.
+- Development Support: Real estate development (land parcel identification and GIS mapping, negotiation with land owners, and signing lease agreements).
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
