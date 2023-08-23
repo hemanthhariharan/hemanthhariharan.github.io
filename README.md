@@ -8,9 +8,8 @@
 
 ## Work Experience
 **Cypress Creek Renewables (_June 2024 - September 2024_)**
-- Interconnection Queue Project: Analysed and visualized trends in historical data from public ERCOT information. Using Machine Learning to predict study times and project outcomes.
-- Financial Modelling: Compiling developer-facing models for all ERCOT pipeline projects and performing sensitivity analyses.
-- Development Support: Real estate development (land parcel identification and GIS mapping, negotiation with land owners, and signing lease agreements).
+- Interconnection Queue Project:
+- 
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 - Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
