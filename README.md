@@ -10,6 +10,8 @@
 ### [ERCOT Interconnection Queue Analytics](/Projects/Final_Presentation_ERCOT_Queue.pdf)
 #### During my internship with Cypress Creek Renewables, I analyzed and visualized trends in publicly available historical data from the ERCOT interconnection queue and used Machine Learning to predict study times and project outcomes. My research helps solar developers make more informed decisions on where to greenfield projects.
 
+------
+
 ![Collage](/Images/Collage_ERCOT_Queue.png)
 
 ### [Low Carbon Fuel Standards - 24/7 carbon-free charging](/Projects/LCFS_24_7_project.pdf)
