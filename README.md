@@ -2,7 +2,7 @@
 
 ## Me, myself and I!
 
-### Welcome welcome! I am Hemanth Hariharan, a second-year master's student in the [Sustainable Design and Construction](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) program at Stanford University. I am an engineering graduate fascinated by the natural and man-made world. In addition to my passion for the sciences, I am a classical Tabla (Indian percussion drum) player and an avid sportsperson!
+### Welcome welcome! I am Hemanth Hariharan, a second-year master's student in the [Sustainable Design and Construction](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) program at Stanford University. I did my undergraduate studies in [Civil Engineering](https://civil.iitm.ac.in/) at the Indian Institute of Technology, Madras, and am fascinated by the natural and man-made world. In addition to my passion for the sciences, I am a classical [Tabla player](https://www.youtube.com/channel/UCwD-ADCjGbrHop9KUyhBZGA) (Indian percussion drum) and an avid sportsperson!
 
 ## Education								       		
 - MS, Sustainable Design and Construction	| Stanford University (_June 2024_)	 			        	
@@ -13,7 +13,7 @@
 - Interconnection Queue Project:
 - 
 
-**D (_December 2020 - Present_)**
+**TATA Projects Ltd. (_December 2020 - Present_)**
 - C
 
 
@@ -32,14 +32,6 @@ Used **Matlab** to train
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
-- Ca
-
-
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
-## Publications
-1. T
 
-
-- [Data Science Blog](https://medium.com/@shawhin)
