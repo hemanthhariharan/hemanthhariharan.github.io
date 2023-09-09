@@ -11,6 +11,9 @@
 ### [Low Carbon Fuel Standards - 24/7 carbon-free charging](/Projects/LCFS_24_7_project.pdf)
 #### I conducted an independent study with my MS advisor, Prof. Rajagopal on decarbonizing Stanford University’s electric bus fleet. I Applied California’s Low Carbon Fuel Standards (LCFS) to calculate potential monetary benefits for Stanford University through both charging and capacity pathways.
 
+### [Developing a roadmap for a 100% wind-water-solar (WWS) California](/Projects/100_WWS_CA_Report.pdf)
+#### In Prof. Jacobson's course on 100% clean, renewable energy and storage for everything, I quantified end-use demand in California from EIA-published data and converted it to WWS energy to arrive at an energy mix containing rooftop and utility-scale solar, onshore and offshore wind, and existing geothermal and hydroelectric power. 
+
 ![EEG Band Discovery]()
 
 
