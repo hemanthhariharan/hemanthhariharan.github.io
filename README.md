@@ -25,7 +25,7 @@
 ### [Financial modeling of HVDC undersea cable project](/Projects/Island_Energy_Project.pdf)
 #### In Prof. Bennon's course 'Global Project Finance', we worked on building a financial model of an HVDC cable project to utilize excess renewable energy capacity. We performed sensitivity analyses on construction timelines, exchange rate fluctuations, operating costs, and potential outages and made recommendations to improve project valuation.  
 
-![100_WWS_CA](/Images/100_WWS_CA.png)
+![100_WWS_CA](/Images/PF_HVDC.png)
 
 ### [Net-zero energy home design in Wolfeboro, NH](/Projects/NZH_Project_Report.pdf)
 #### As a team of two, we redesigned an existing summer home in Wolfeboro, NH to make it a NZE home using passive solar design strategies, rooftop solar, and a geothermal heat pump. An iterative process was employed to optimize the R-values of the building envelope and minimize shading losses. We achieved a projected NPV of savings of ~$30k over 20 years.
