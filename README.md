@@ -8,6 +8,9 @@
 ### [ERCOT Interconnection Queue Analytics](/Projects/Final_Presentation_ERCOT_Queue.pdf)
 #### I analyzed and visualized trends in publicly available historical data from the ERCOT interconnection queue and used Machine Learning to predict study times and project outcomes. My research helps solar developers make more informed decisions on where to develop projects.
 
+### [24/7 carbon-free charging](/Projects/LCFS_24_7_project.pdf)
+#### I conducted an independent study with my MS advisor, Prof. Rajagopal on decarbonizing Stanford University’s electric bus fleet. I Applied California’s Low Carbon Fuel Standards (LCFS) to calculate potential monetary benefits for Stanford University through both charging and capacity pathways.
+
 ![EEG Band Discovery]()
 
 
