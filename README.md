@@ -39,6 +39,14 @@
 ------
 ------
 
+### [Net-zero energy home design in Wolfeboro, NH](/Projects/LCA_Project_Report_Group_11.pdf)
+#### As a team of two, we redesigned an existing summer home in Wolfeboro, NH into an NZE home using passive solar design strategies, rooftop solar, and a geothermal heat pump. An iterative process was employed to optimize the R-values of the building envelope and minimize shading losses. We achieved a projected NPV of savings of ~$30k over 20 years.
+
+![LCA](/Images/LCA_Project_Poster.jpg)
+
+------
+------
+
 ### [Net-zero energy home design in Wolfeboro, NH](/Projects/NZH_Project_Report.pdf)
 #### As a team of two, we redesigned an existing summer home in Wolfeboro, NH into an NZE home using passive solar design strategies, rooftop solar, and a geothermal heat pump. An iterative process was employed to optimize the R-values of the building envelope and minimize shading losses. We achieved a projected NPV of savings of ~$30k over 20 years.
 
