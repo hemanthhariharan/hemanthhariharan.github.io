@@ -39,8 +39,8 @@
 ------
 ------
 
-### [Net-zero energy home design in Wolfeboro, NH](/Projects/LCA_Project_Report_Group_11.pdf)
-#### As a team of two, we redesigned an existing summer home in Wolfeboro, NH into an NZE home using passive solar design strategies, rooftop solar, and a geothermal heat pump. An iterative process was employed to optimize the R-values of the building envelope and minimize shading losses. We achieved a projected NPV of savings of ~$30k over 20 years.
+### [Life Cycle Assessment of Carbon Condo vs. US average condo](/Projects/LCA_Project_Report_Group_11.pdf)
+#### As a team of five, we conducted an LCA comparison of a carbon nanotube (CNT) building with the US average building. The goal of the LCA was to provide city and building professionals with quantitative decision-making tools for the implementation of CNT as a building material to make efficient use of energy resources, eliminate pollution, and reduce climate change.
 
 ![LCA](/Images/LCA_Project_Poster.jpg)
 
