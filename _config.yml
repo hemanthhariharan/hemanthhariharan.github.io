@@ -2,5 +2,6 @@ title: Hemanth Hariharan
 logo: /Images/Github_profile.jpg
 #description 
 # show_downloads: true
-is_project_page: false
+Github:
+  is_project_page: false
 theme: jekyll-theme-minimal
