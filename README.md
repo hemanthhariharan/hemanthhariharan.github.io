@@ -6,7 +6,7 @@
 
 ### [Resume](/Files/Hemanth_Hariharan_Resume_GH.pdf) / [LinkedIn](https://www.linkedin.com/in/hemanth-hariharan/)
 
-## Projects
+## Projects (Click project to see report/presentation!)
 ### [ERCOT Interconnection Queue Analytics](/Projects/Final_Presentation_ERCOT_Queue.pdf)
 #### During my internship with Cypress Creek Renewables, I analyzed and visualized trends in publicly available historical data from the ERCOT interconnection queue and used machine learning to predict study times and project outcomes. My research helps solar developers make more informed decisions on where to greenfield projects.
 
@@ -51,6 +51,14 @@
 #### As a team of two, we redesigned an existing summer home in Wolfeboro, NH into an NZE home using passive solar design strategies, rooftop solar, and a geothermal heat pump. An iterative process was employed to optimize the R-values of the building envelope and minimize shading losses. We achieved a projected NPV of savings of ~$30k over 20 years.
 
 ![NZH](/Images/NZH.png)
+
+------
+------
+
+### [Energy@Stanford & SLAC Summer Course](/Projects/EnRoads_Final_Presentation.pdf)
+#### Attended	summer	conference	(week-long	multi-disciplinary	session	on	Energy)	and	presented	solutions	for	a	< 2C	future	using	the	En-ROADS	simulator.
+
+![SGSI](/Images/EnRoads.png)
 
 ------
 ------
