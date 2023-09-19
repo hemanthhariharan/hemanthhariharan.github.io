@@ -63,5 +63,21 @@
 ------
 ------
 
+### [Behavior of masonry spandrels](/Projects/BTP_PPT_Hemanth.pdf)
+#### As part of my B.Tech thesis at IITM with Dr. Arun Menon, I developed a tool for the parametric study of existing masonry strength formulations. I characterized the lateral resistance of a masonry wall based on geometry, boundary conditions, strength, and stiffness. Parametric analysis was done through non-linear FE modeling on TNO-DIANA and I formulated a predictive equation of spandrel strength using the Machine Learning toolbox of MATLAB.
+
+![BTP](/Images/BTP_Hemanth.gif)
+
+------
+------
+
+### [Inelastic buckling of concrete-filled tube (CFT) columns](/Projects/PURE_Hemanth.pdf)
+#### During my summer research internship at Purdue University with Dr. Amit Verma, I developed a GUI on MATLAB with a pre-processor and a post-processor for an existing MATLAB code to analyze CFT columns. Column curves and interaction curves were generated iteratively and I used higher-order interpolation to develop a tool that provided column designs. In addition to my computational research, I also worked at the Bowen Lab in setting up test specimens of composite walls.
+
+![PURE](/Images/PURE_Hemanth.png)
+
+------
+------
+
 
 
