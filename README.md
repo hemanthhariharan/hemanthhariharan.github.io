@@ -1,12 +1,10 @@
 # Hemanth Hariharan
 
-## Me, myself and I!
-
-### Welcome welcome! I am Hemanth Hariharan, a second-year master's student in the [Sustainable Design and Construction](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) program at Stanford University. I did my undergraduate studies in [Civil Engineering](https://civil.iitm.ac.in/) at the Indian Institute of Technology, Madras, and am fascinated by the natural and man-made world. In addition to my passion for the sciences, I am a [Tabla player](https://www.youtube.com/channel/UCwD-ADCjGbrHop9KUyhBZGA) (Indian percussion drummer) and an avid sportsperson!
+### Welcome! I am Hemanth Hariharan, a second-year master's student in the [Sustainable Design and Construction](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) program at Stanford University. I did my undergraduate studies in [Civil Engineering](https://civil.iitm.ac.in/) at the Indian Institute of Technology, Madras, and am fascinated by the natural and man-made world. In addition to my passion for the sciences, I am a [Tabla player](https://www.youtube.com/channel/UCwD-ADCjGbrHop9KUyhBZGA) (Indian percussion drummer) and an avid sportsperson!
 
 ### [Resume](/Files/Hemanth_Hariharan_Resume_GH.pdf) / [LinkedIn](https://www.linkedin.com/in/hemanth-hariharan/)
 
-## Projects (Click project to see report/presentation!)
+## Projects (Click project title to see more!)
 ### [ERCOT Interconnection Queue Analytics](/Projects/Final_Presentation_ERCOT_Queue.pdf)
 #### During my internship with Cypress Creek Renewables, I analyzed and visualized trends in publicly available historical data from the ERCOT interconnection queue and used machine learning to predict study times and project outcomes. My research helps solar developers make more informed decisions on where to greenfield projects.
 
@@ -64,7 +62,7 @@
 ------
 
 ### [Behavior of masonry spandrels](/Projects/BTP_PPT_Hemanth.pdf)
-#### As part of my B.Tech thesis at IITM with Dr. Arun Menon, I developed a tool for the parametric study of existing masonry strength formulations. I characterized the lateral resistance of a masonry wall based on geometry, boundary conditions, strength, and stiffness. Parametric analysis was done through non-linear FE modeling on TNO-DIANA and I formulated a predictive equation of spandrel strength using the Machine Learning toolbox of MATLAB.
+#### As part of my B.Tech thesis at IITM with Dr. Arun Menon, I developed a tool for the parametric study of existing masonry strength formulations. I characterized the lateral resistance of a masonry wall based on geometry, boundary conditions, strength, and stiffness. Parametric analysis was done through non-linear FE modeling on TNO-DIANA and I formulated a predictive equation of spandrel strength using the machine learning toolbox of MATLAB.
 
 ![BTP](/Images/BTP_Hemanth.gif)
 
