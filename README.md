@@ -6,7 +6,7 @@
 
 ## Projects (Click the project title to see more!)
 
-### [Machine Learning for Wind Turbine Output Prediction - ongoing...](/Projects/CS229HemanthH_TayloreG_ZiyadG_Updated.pdf)
+### [Machine Learning for Wind Turbine Output Prediction](/Projects/CS229HemanthH_TayloreG_ZiyadG_Updated.pdf)
 #### As part of a team of 3 in Dr. Andrew Ng's course 'Machine Learning', we performed an exploratory data analysis on a wind-energy SCADA dataset comprising features including wind speed, direction, and energy generated. We used an ensemble machine learning method comprising linear regression, gradient boosting, and long short-term memory (LSTM) neural networks to perform time-series forecasting of wind energy.
 
 ![LSTM](/Images/CS_229_Collage_GH.png)
@@ -14,8 +14,8 @@
 ------
 ------
 
-### Crane Data Analysis - ongoing...
-#### As a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we are currently performing data analysis and visualization of crane data from two building projects. Our goal is to determine production rates and cycle times for key activities, assess productivity for both projects, and propose recommendations for future projects.
+### Crane Data Analysis
+#### As a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects and propose recommendations for future projects.
 
 
 ------
