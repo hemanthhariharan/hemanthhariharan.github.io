@@ -17,6 +17,7 @@
 ### Crane Data Analysis
 #### As a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects and propose recommendations for future projects.
 
+![crane](/Images/CEE_241_Collage_GH.png)
 
 ------
 ------
