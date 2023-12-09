@@ -7,7 +7,7 @@
 ## Projects (Click the project title to see more!)
 
 ### [Machine Learning for Wind Turbine Output Prediction](/Projects/CS229HemanthH_TayloreG_ZiyadG_Updated.pdf)
-#### As part of a team of 3 in Dr. Andrew Ng's course 'Machine Learning', we performed an exploratory data analysis on a wind-energy SCADA dataset comprising features including wind speed, direction, and energy generated. We used an ensemble machine learning method comprising linear regression, gradient boosting, and long short-term memory (LSTM) neural networks to perform time-series forecasting of wind energy.
+#### As part of a team of 3 in Dr. Andrew Ng's course 'Machine Learning', we performed an exploratory data analysis on a wind-energy SCADA dataset comprising features including wind speed, direction, and energy generated. We used an ensemble machine learning method comprising ARIMA, gradient boosting, convolutional neural networks, and long short-term memory (LSTM) neural networks to perform time-series forecasting of wind energy.
 
 ![LSTM](/Images/CS_229_Collage_GH.png)
 
