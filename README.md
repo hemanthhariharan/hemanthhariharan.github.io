@@ -15,7 +15,7 @@
 ------
 
 ### Crane Data Analysis
-#### As part of a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects, and propose recommendations for future projects.
+#### As part of a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects and propose recommendations for future projects.
 
 ![crane](/Images/CEE_241_Collage_GH.png)
 
@@ -38,10 +38,10 @@
 ------
 ------
 
-### [Systems Modeling](/Projects/Group6_CEE243_Project2.pdf)
+### [Systems modeling of growth and pollution of a city](/Projects/Group6_CEE243_Project2.pdf)
 #### As part of a team of 4 in Prof. Rishee Jain's course 'Urban Systems Engineering', we created a systems model to predict the variation of certain urban parameters (pollution, building, coal, and solar resources) with time. A sensitivity and policy analysis was also conducted to model the impact of policy interventions on the system.
 
-![24_7](/Images/Systems_Diagram_Project_2.png)
+![24_7](/Images/Systems_Diagram_Project_2.jpeg)
 
 ------
 ------
