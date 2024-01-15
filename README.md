@@ -15,7 +15,7 @@
 ------
 
 ### Crane Data Analysis
-#### As a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects and propose recommendations for future projects.
+#### As part of a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects, and propose recommendations for future projects.
 
 ![crane](/Images/CEE_241_Collage_GH.png)
 
@@ -37,6 +37,15 @@
 
 ------
 ------
+
+### [Systems Modeling](/Projects/Group6_CEE243_Project2.pdf)
+#### As part of a team of 4 in Prof. Rishee Jain's course 'Urban Systems Engineering', we created a systems model to predict the variation of certain urban parameters (pollution, building, coal, and solar resources) with time. A sensitivity and policy analysis was also conducted to model the impact of policy interventions on the system.
+
+![24_7](/Images/Systems_Diagram_Project_2.png)
+
+------
+------
+
 
 ### [Developing a roadmap for a 100% wind-water-solar (WWS) California](/Projects/100_WWS_CA_Report.pdf)
 #### In Prof. Jacobson's course '100% clean, renewable energy and storage for everything', I quantified end-use demand in California from EIA-published data and converted it to WWS energy to arrive at an energy mix containing rooftop and utility-scale solar, onshore and offshore wind, and existing geothermal and hydroelectric power. 
