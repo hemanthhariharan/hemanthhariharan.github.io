@@ -6,6 +6,14 @@
 
 ## Projects (Click the project title to see more!)
 
+### [Brine leakage due to CO2 storage](https://docs.google.com/presentation/d/1FvFGs7nx7FYpQgGnUF2COo1_GHHW0hhbi-fgJKMQeEA/edit?usp=sharing)
+#### I am currently working with Dr. Sally Benson and Dr. Sarah Saltzer on developing an interactive tool to study brine leakage into drinking aquifers due to pressure buildup from CO2 storage. My work uses [CCSNet](https://ccsnet.ai/), a deep-learning modeling suite, to run tens of thousands of trials on the backend, and develop a nomograph to compute the 'Area-of-review' for various permeabilities, injection rates, thicknesses, depths, and brine densities. 
+
+![CCS](/Images/CCS_RA.png)
+
+------
+------
+
 ### [Machine Learning for Wind Turbine Output Prediction](/Projects/CS229HemanthH_TayloreG_ZiyadG_Updated.pdf)
 #### As part of a team of 3 in Dr. Andrew Ng's course 'Machine Learning', we performed an exploratory data analysis on a wind-energy SCADA dataset comprising features including wind speed, direction, and energy generated. We used an ensemble machine learning method comprising ARIMA, gradient-boosted decision trees (XGBoost), convolutional neural networks (CNN), and long short-term memory (LSTM) neural networks to perform time-series forecasting of wind energy.
 
