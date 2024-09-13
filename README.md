@@ -7,7 +7,7 @@
 ## Projects (Click the project title to see more!)
 
 ### [Energy analytics and financial modeling](/Projects/COI_E2X_slides_final_presentation_Hemanth.pdf)
-#### During my summer internship with COI Energy, I worked on studying historical energy consumption data for customer selection and financial modeling to determine customer payback periods. My model generates data and computes payback period for multiple scenarios (Monte Carlo analysis) and can also be used for specific buildings. 
+#### During my summer internship with COI Energy, I worked on studying historical energy consumption data for customer selection and financial modeling to determine customer payback periods. My model generates data, computes payback period for multiple scenarios (Monte Carlo analysis), and can also be used for specific buildings. 
 
 ![COI_E2X](/Images/COI_E2X_Collage.png)
 
