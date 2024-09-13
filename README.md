@@ -2,7 +2,7 @@
 
 ### Welcome! I am Hemanth Hariharan, a recent graduate of the master's program in [Sustainable Design and Construction](https://cee.stanford.edu/academics-admission/graduate-degrees/ms-programs/sustainable-design-construction-sdc) at Stanford University. I did my undergraduate studies in [Civil Engineering](https://civil.iitm.ac.in/) at the Indian Institute of Technology, Madras, and am fascinated by the natural and man-made world. In addition to my passion for the sciences, I am a [Tabla player](https://www.youtube.com/channel/UCwD-ADCjGbrHop9KUyhBZGA) (Indian percussion drummer), a content creator for my YouTube channel [Scientific Blunders](https://www.youtube.com/channel/UCrJka9FsGJWy4Y5DN19GKJw), and an avid sportsperson!
 
-### [Resume](/Files/Hemanth_Hariharan_CV_GitHub.pdf) / [LinkedIn](https://www.linkedin.com/in/hemanth-hariharan/)
+### [Resume](/Hemanth_Hariharan_Resume.pdf) / [LinkedIn](https://www.linkedin.com/in/hemanth-hariharan/)
 
 ## Projects (Click the project title to see more!)
 
