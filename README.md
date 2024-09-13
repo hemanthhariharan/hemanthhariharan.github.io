@@ -6,6 +6,14 @@
 
 ## Projects (Click the project title to see more!)
 
+### [Energy analytics and financial modeling](/Projects/COI_E2X_slides_final_presentation_Hemanth.pdf)
+#### During my summer internship with COI Energy, I worked on studying historical energy consumption data for customer selection and financial modeling to determine customer payback periods. My model generates data and computes payback period for multiple scenarios (Monte Carlo analysis) and can also be used for specific buildings. 
+
+![COI_E2X](/Images/COI_E2X_Collage.png)
+
+------
+------
+
 ### [Deep learning model for carbon storage to study brine leakage](https://docs.google.com/document/d/1hN6dWAA2aLvI7Q12z_OGZ-mI7TAlcOACnAvGlgmZChI/edit)
 #### I am currently working with Dr. Sally Benson and Dr. Sarah Saltzer on developing an interactive tool to study brine leakage into drinking aquifers due to pressure buildup from CO2 storage. My work uses [CCSNet](https://ccsnet.ai/), a deep-learning modeling suite, to run tens of thousands of trials on the backend, and develop a nomograph to compute the 'Area-of-review' for various permeabilities, injection rates, thicknesses, depths, and brine densities. 
 
