@@ -72,7 +72,7 @@
 ------
 
 ### [Financial modeling of HVDC undersea cable project](/Projects/Island_Energy_Project.pdf)
-#### In Prof. Bennon's course 'Global Project Finance', we worked on building a financial model of an HVDC cable project to utilize excess renewable energy capacity. We performed sensitivity analyses on construction timelines, exchange rate fluctuations, operating costs, and potential outages and made recommendations to improve project valuation.  
+#### In Prof. Bennon's course 'Global Project Finance', we worked on building a financial model of an HVDC cable project to utilize excess renewable energy capacity. We performed sensitivity analyses on construction timelines, exchange rate fluctuations, operating costs, and potential outages and made recommendations to improve project valuation. [Monte Carlo Analysis](/Projects/CEE_242R_Final_Presentation.pdf) was also performed using the ChanceCalc library to estimate the probability distribution of the IRR (Internal Rate of Return) and ROE (Return on Equity).  
 
 ![PF HVDC](/Images/PF_HVDC.png)
 
