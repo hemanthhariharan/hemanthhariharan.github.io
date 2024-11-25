@@ -15,7 +15,7 @@
 ------
 
 ### [Deep learning model for carbon storage to study brine leakage](https://docs.google.com/document/d/1hN6dWAA2aLvI7Q12z_OGZ-mI7TAlcOACnAvGlgmZChI/edit)
-#### I am currently working with Dr. Sally Benson and Dr. Sarah Saltzer on developing an interactive tool to study brine leakage into drinking aquifers due to pressure buildup from CO2 storage. My work uses [CCSNet](https://ccsnet.ai/), a deep-learning modeling suite, to run tens of thousands of trials on the backend, and develop a nomograph to compute the 'Area-of-review' for various permeabilities, injection rates, thicknesses, depths, and brine densities. 
+#### As a research assistant at the Stanford Center for Carbon Storage, I worked with Dr. Sally Benson and Dr. Sarah Saltzer on developing an interactive tool to study brine leakage into drinking aquifers due to pressure buildup from CO2 storage. My work uses [CCSNet](https://ccsnet.ai/), a deep-learning modeling suite, to run hundreds of thousands of trials on the backend, and develop a nomogram and phase diagram to compute the 'Area-of-review' for various permeabilities, injection rates, thicknesses, depths, and brine densities. 
 
 ![CCS](/Images/CCS_RA_research_highlights.png)
 
@@ -31,7 +31,7 @@
 ------
 
 ### Crane Data Analysis
-#### As part of a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects and propose recommendations for future projects.
+#### As part of a team of 3 in Dr. Fischer's course 'Managing Fabrication and Construction', we performed data analysis and visualization of crane data from two building projects. Our goal was to determine production rates and pour cycle times for key activities, assess productivity for both projects, and propose recommendations for future projects.
 
 ![crane](/Images/CEE_241_Collage_GH.png)
 
@@ -103,7 +103,7 @@
 ------
 ------
 
-### [Machine learning to characterize behavior of masonry spandrels](/Projects/BTP_PPT_Hemanth.pdf)
+### [Machine learning to characterize the behavior of masonry spandrels](/Projects/BTP_PPT_Hemanth.pdf)
 #### As part of my B.Tech thesis at IITM with Dr. Arun Menon, I developed a tool for the parametric study of existing masonry strength formulations. I characterized the lateral resistance of a masonry wall based on geometry, boundary conditions, strength, and stiffness. Parametric analysis was done through non-linear FE modeling on TNO-DIANA and I formulated a predictive equation of spandrel strength using the machine learning toolbox of MATLAB.
 
 ![BTP](/Images/BTP_Hemanth.gif)
