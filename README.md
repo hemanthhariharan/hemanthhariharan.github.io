@@ -14,7 +14,7 @@
 ------
 ------
 
-### [Deep learning model for carbon storage to study brine leakage](https://docs.google.com/document/d/1hN6dWAA2aLvI7Q12z_OGZ-mI7TAlcOACnAvGlgmZChI/edit)
+### [Deep learning model for carbon storage to study brine leakage](/Projects/CCS_AoR_GitHub.pdf)
 #### As a research assistant at the Stanford Center for Carbon Storage, I worked with Dr. Sally Benson and Dr. Sarah Saltzer on developing an interactive tool to study brine leakage into drinking aquifers due to pressure buildup from CO2 storage. My work uses [CCSNet](https://ccsnet.ai/), a deep-learning modeling suite, to run hundreds of thousands of trials on the backend, and develop a nomogram and phase diagram to compute the 'Area-of-review' for various permeabilities, injection rates, thicknesses, depths, and brine densities. 
 
 ![CCS](/Images/CCS_RA_research_highlights.png)
