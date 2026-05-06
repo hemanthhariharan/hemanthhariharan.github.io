@@ -11,6 +11,11 @@
 
 #### As someone deeply passionate about mathematics and analytical thinking, I have conducted several quantitative research studies to improve the efficiency and accuracy of pricing and trading. I fine-tuned the derivation of the [closed-form solution](https://hemanthhariharan.github.io/Projects/Variable_volume_swap_valuation.pdf) used by the team and partnered with the oil trading desk head on an [alternative formulation](https://hemanthhariharan.github.io/Projects/Variable_volume_swap_alternate_approach.pdf) by expressing volume as a function of price. I have also worked on developing simulation tools for analysts to participate in mock descending-price auctions and have implemented analytical approximations for Asian swap and option payoffs for hedge strategy analyses.
 
+![NEM](/Images/Call spread fit - monthly.png)
+
+------
+------
+
 ## Course Projects (Click the project title to see more!)
 
 ### [Energy analytics and financial modeling](/Projects/COI_E2X_slides_final_presentation_Hemanth.pdf)
