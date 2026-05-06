@@ -4,6 +4,13 @@
 
 ### [Resume](/Hemanth_Hariharan_Resume.pdf) / [LinkedIn](https://www.linkedin.com/in/hemanth-hariharan/)
 
+## Work Experience
+
+### NextEra Energy Marketing
+#### An analyst on the risk analytics side of the Full Requirements (FR) desk on the trade floor, I work on the [valuation](https://github.com/hemanthhariharan/RA-NEM) of variable-volume OTC swap transactions (notional value up to $1.5 B) primarily hedged using Asian swaps and options. I have conducted 3 descending-price clocked auctions – analyzed bidding behavior and incorporated dynamic price decrements to optimize margin/headroom under time-dependent pricing. The nature of the role is highly quantitative, with extensive use of data analytics, Monte Carlo simulations ([geometric Brownian motion](https://github.com/hemanthhariharan/RA-NEM/blob/main/Geometric_Brownian_Motion.ipynb)), multi-variate regression ([weather normalization](https://github.com/hemanthhariharan/RA-NEM/blob/main/Variable_volume_swap_valuation/Weather_Normalization.ipynb)), financial modeling, etc. The FR desk has a wide reach on the trade floor and has enabled me to collaborate with the futures, options, basis, and renewable energy credit trading desks.
+
+#### As someone deeply passionate about mathematics and analytical thinking, I have conducted several quantitative research studies to improve the efficiency and accuracy of pricing and trading. I fine-tuned the derivation of the closed-form solution used by the team and partnered with the oil trading desk head on an alternative formulation by expressing volume as a function of price. I have also worked on developing simulation tools for analysts to participate in mock descending-price auctions and have implemented analytical approximations for Asian swap and option payoffs for hedge strategy analyses.
+
 ## Projects (Click the project title to see more!)
 
 ### [Energy analytics and financial modeling](/Projects/COI_E2X_slides_final_presentation_Hemanth.pdf)
